@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:ns0="http://localhost:8080/Data/page/"
+         xmlns:ns1="http://localhost:8080/Data/page/">
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Jorge_Glass">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/L1">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/JG">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Jorge_Glass"/>
+    <ns0:hasPersonaDetenida rdf:resource="http://localhost:8080/Data/page/Detenido"/>
+    <ns0:hasLugarDetencion rdf:resource="http://localhost:8080/Data/page/Guayaquil"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Jorge"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Glas"/>
+    <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
+    <ns1:hasCargo rdf:resource="http://localhost:8080/Data/page/ExVicePresidente"/>
+    <ns1:hasNombreProfesion rdf:resource="http://localhost:8080/Data/page/Telecomunicaciones"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+    <ns1:hasMontoRecibido>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/2M">
+        <ns0:hasMontoEntregadoPor rdf:resource="http://localhost:8080/Data/page/V7"/>
+      </rdf:Description>
+    </ns1:hasMontoRecibido>
+
+    <ns1:hasMontoRecibido>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/1.5M">
+        <ns0:hasMontoEntregadoPor rdf:resource="http://localhost:8080/Data/page/V8"/>
+      </rdf:Description>
+    </ns1:hasMontoRecibido>
+
+    <ns1:hasMontoRecibido rdf:resource="http://localhost:8080/Data/page/1M"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Maria_de_los_Angeles_Duarte">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/L2">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/MD">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Maria_de_los_Angeles_Duarte"/>
+    <ns0:hasPersonaDetenida rdf:resource="http://localhost:8080/Data/page/Detenido"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Maria_de_los_Angeles"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Duarte"/>
+    <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
+    <ns1:hasCargo rdf:resource="http://localhost:8080/Data/page/TransporteObrasPúblicasEcuador"/>
+    <ns1:hasNombreProfesion rdf:resource="http://localhost:8080/Data/page/AdministracionEmpresas"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+    <ns1:hasMontoRecibido rdf:resource="http://localhost:8080/Data/page/1M"/>
+    <ns1:hasMontoRecibido>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/300">
+        <ns0:hasMontoEntregadoPor rdf:resource="http://localhost:8080/Data/page/V4"/>
+      </rdf:Description>
+    </ns1:hasMontoRecibido>
+
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Walter_Solis">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/L3">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/WS">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Walter_Solis"/>
+    <ns0:hasPersonaDetenida rdf:resource="http://localhost:8080/Data/page/Detenido"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Walter"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Solis"/>
+    <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
+    <ns1:hasCargo rdf:resource="http://localhost:8080/Data/page/ExSecretarioNacionalAgua"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+    <ns1:hasMontoRecibido rdf:resource="http://localhost:8080/Data/page/1M"/>
+    <ns1:hasMontoRecibido>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/500">
+        <ns0:hasMontoEntregadoPor rdf:resource="http://localhost:8080/Data/page/V2"/>
+      </rdf:Description>
+    </ns1:hasMontoRecibido>
+
+    <ns1:hasMontoRecibido>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/400">
+        <ns0:hasMontoEntregadoPor rdf:resource="http://localhost:8080/Data/page/V6"/>
+      </rdf:Description>
+    </ns1:hasMontoRecibido>
+
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Olga_Muentes">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/C1">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/OM">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Olga_Muentes"/>
+    <ns0:hasPersonaDetenida rdf:resource="http://localhost:8080/Data/page/Detenido"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Olga"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Muentes"/>
+    <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
+    <ns1:hasCargo rdf:resource="http://localhost:8080/Data/page/Asesora_"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Maria_Agusta_Enriquez">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/C2">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/ME">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Maria_Agusta_Enriquez"/>
+    <ns0:hasPersonaDetenida rdf:resource="http://localhost:8080/Data/page/Detenido"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Maria_Augusta"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Enriquez"/>
+    <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
+    <ns1:hasCargo rdf:resource="http://localhost:8080/Data/page/AsistentePrecidencia"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Maria_Pamela_Martinez_Loaiza">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/C3">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/PM">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Maria_Pamela_Martinez_Loaiza"/>
+    <ns0:hasPersonaDetenida rdf:resource="http://localhost:8080/Data/page/detenido"/>
+    <ns0:hasLugarDetencion rdf:resource="http://localhost:8080/Data/page/Guayaquil"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Maria_Pamela"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Martinez_Loiza"/>
+    <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
+    <ns1:hasCargo rdf:resource="http://localhost:8080/Data/page/Asesora"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Rafael_Correa_Delgado">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/XX1">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Rafael_Correa_Delgado"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Rafael"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Correa"/>
+    <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
+    <ns1:hasCargo rdf:resource="http://localhost:8080/Data/page/ExPresidente"/>
+    <ns1:hasNombreProfesion rdf:resource="http://localhost:8080/Data/page/Economista"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Cristina_P">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/XX2">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Cristina_P"/>
+    <ns0:hasPersonaDetenida rdf:resource="http://localhost:8080/Data/page/Detenido"/>
+    <ns0:hasLugarDetencion rdf:resource="http://localhost:8080/Data/page/Quito"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Cristina"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/P"/>
+    <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Laura_Teran_Betancourt">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/XX3">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Laura_Teran_Betancourt"/>
+    <ns0:hasPersonaDetenida rdf:resource="http://localhost:8080/Data/page/Detenido"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Laura"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Teran"/>
+    <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
+    <ns1:hasCargo rdf:resource="http://localhost:8080/Data/page/Asesora"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Alexis_Mera">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/XX4">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Alexis_Mera"/>
+    <ns0:hasPersonaDetenida rdf:resource="http://localhost:8080/Data/page/Detenido"/>
+    <ns0:hasLugarDetencion rdf:resource="http://localhost:8080/Data/page/Guayaquil"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Alexis"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Mera"/>
+    <ns1:hasCargo rdf:resource="http://localhost:8080/Data/page/SecretarioJuridicoPresindecia"/>
+    <ns1:hasNombreProfesion rdf:resource="http://localhost:8080/Data/page/Abogado"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Viviana_Bonilla">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/XX5">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Viviana_Bonilla"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Viviana"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Bonilla"/>
+    <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
+    <ns1:hasCargo rdf:resource="http://localhost:8080/Data/page/Asambleista"/>
+    <ns1:hasNombreProfesion rdf:resource="http://localhost:8080/Data/page/Abogada"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Galo_Mora">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/XX6">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Galo_Mora"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Galo"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Mora"/>
+    <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
+    <ns1:hasCargo rdf:resource="http://localhost:8080/Data/page/DirectorDiscursos"/>
+    <ns1:hasNombreProfesion rdf:resource="http://localhost:8080/Data/page/Antropologia"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Pedro_Espinoza">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/XX7">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Pedro_Espinoza"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Pedro"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Espinosza"/>
+    <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Alberto_Hildalgo">
+    <ns0:hasCodigo rdf:resource="http://localhost:8080/Data/page/V1"/>
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Alberto_Hildalgo"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Alberto"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Hildalgo"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Manuel_Fontana">
+    <ns0:hasCodigo rdf:resource="http://localhost:8080/Data/page/V2"/>
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Manuel_Fontana"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Manuel"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Fontana"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/V3">
+    <ns0:hasCodigo rdf:resource="http://localhost:8080/Data/page/V3"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+    <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+  </rdf:Description>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Edgar_Salas">
+    <ns0:hasCodigo rdf:resource="http://localhost:8080/Data/page/V4"/>
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Edgar_Salas"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Edgar"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Salas"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Pedro_Verduga">
+    <ns0:hasCodigo rdf:resource="http://localhost:8080/Data/page/V5"/>
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Pedro_Verduga"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Pedro"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Verduga"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Luis_Valero">
+    <ns0:hasCodigo rdf:resource="http://localhost:8080/Data/page/V6"/>
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Luis_Valero"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Luis"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Valero"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Geraldo_De_Souza">
+    <ns0:hasCodigo rdf:resource="http://localhost:8080/Data/page/V7"/>
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Geraldo_De_Souza"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Geraldo"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/De_Souza"/>
+    <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Mateo_Choi">
+    <ns0:hasCodigo rdf:resource="http://localhost:8080/Data/page/V8"/>
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Mateo_Choi"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Mateo"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/CHoi"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Jose_Alvear">
+    <ns0:hasCodigo rdf:resource="http://localhost:8080/Data/page/V9"/>
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Jose_Alvear"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Jose"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Alvear"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Bolivar_Sanchez">
+    <ns0:hasCodigo rdf:resource="http://localhost:8080/Data/page/V10"/>
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Bolivar_Sanchez"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Bolivar"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Sanchez"/>
+    <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Tommy_Topic">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/V11">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+        <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Tommy_Topic"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Tommy"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Topic"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/V12">
+    <ns0:hasCodigo rdf:resource="http://localhost:8080/Data/page/V12"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+    <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+  </rdf:Description>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Rafael_Cordova">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/V13">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+        <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Rafael_Cordova"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Rafael"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Cordova"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Cai_Runguo">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/V14">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+        <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/China"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Cai_Runguo"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Cai"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Runguo"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/V15">
+    <ns0:hasCodigo rdf:resource="http://localhost:8080/Data/page/V15"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+    <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+  </rdf:Description>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Teodoro_Calle">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/V16">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+        <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Teodoro_Calle"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Teodoro"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Calle"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/V17">
+    <ns0:hasCodigo rdf:resource="http://localhost:8080/Data/page/V17"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+    <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+  </rdf:Description>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Francisco_Suarez">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/V18">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+        <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Francisco_Suarez"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Fracisco"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Suarez"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Fernando_Villavicencio">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/P1">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Fernando"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Villavicencio"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <foaf:Person rdf:about="http://localhost:8080/Data/page/Christian_Zurita">
+    <ns0:hasCodigo>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/P2">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+      </rdf:Description>
+    </ns0:hasCodigo>
+
+    <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Christian"/>
+    <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Zurita"/>
+    <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
+  </foaf:Person>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/Guayaquil">
+    <ns0:hasNombreProvincia>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/Guayas">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/City"/>
+      </rdf:Description>
+    </ns0:hasNombreProvincia>
+
+    <ns0:hasNombreCanton rdf:resource="http://localhost:8080/Data/page/Guayaquil"/>
+    <ns0:hasNombreCiudad rdf:resource="http://localhost:8080/Data/page/Guayaquil"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/Quito">
+    <ns0:hasNombreProvincia>
+      <rdf:Description rdf:about="http://localhost:8080/Data/page/Pichincha">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/City"/>
+      </rdf:Description>
+    </ns0:hasNombreProvincia>
+
+    <ns0:hasNombreCanton rdf:resource="http://localhost:8080/Data/page/Quito"/>
+    <ns0:hasNombreCiudad rdf:resource="http://localhost:8080/Data/page/Quito"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/1M">
+    <ns0:hasMontoEntregadoPor rdf:resource="http://localhost:8080/Data/page/V1"/>
+    <ns0:hasMontoEntregadoPor rdf:resource="http://localhost:8080/Data/page/V3"/>
+    <ns0:hasMontoEntregadoPor rdf:resource="http://localhost:8080/Data/page/V9"/>
+    <ns0:hasMontoEntregadoPor rdf:resource="http://localhost:8080/Data/page/V5"/>
+    <ns0:hasMontoEntregadoPor rdf:resource="http://localhost:8080/Data/page/V10"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/V1">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+    <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/V2">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+    <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/V4">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+    <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/V5">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+    <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/V6">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+    <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/V7">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+    <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Brasil"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/V8">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+    <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Korea"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/V9">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+    <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/V10">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Code"/>
+    <ns0:hasPaisEmpresa rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/AP">
+    <ns0:hasCodigoPP rdf:resource="http://localhost:8080/Data/page/AP"/>
+    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Alianza_Pais"/>
+    <ns1:hasSiglasPP rdf:resource="http://localhost:8080/Data/page/AP"/>
+    <ns1:hasAñoCreacionPP rdf:resource="http://localhost:8080/Data/page/2006"/>
+    <ns0:hasFundadorPP rdf:resource="http://localhost:8080/Data/page/Rafael_Correa"/>
+    <ns1:hasAñoCampaña rdf:resource="http://localhost:8080/Data/page/2013_2014"/>
+    <ns1:hasMontoRecibido rdf:resource="http://localhost:8080/Data/page/$_4600000;_$_7000000"/>
+    <ns0:hasTipoFormaRecibida rdf:resource="http://localhost:8080/Data/page/Efectivo;_Factura"/>
+    <ns1:hasMontoTotalContribucion rdf:resource="http://localhost:8080/Data/page/$11,600,000"/>
+    <ns0:hasPidio rdf:resource="http://localhost:8080/Data/page/Hidalgo_&amp;_Hidalgo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/HIDALGO_&amp;_HIDALGO">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/HIDALGO_&amp;_HIDALGO"/>
+    <ns1:hasAporteEmpresa rdf:resource="http://localhost:8080/Data/page/$2,000,000,000"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/María_Duarte"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/Walter_Solís"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/FOPECA">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/FOPECA"/>
+    <ns1:hasAporteEmpresa rdf:resource="http://localhost:8080/Data/page/$240,000,000"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/Walter_Solis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/MIDISA_S.A">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/MIDISA_S.A"/>
+    <ns1:hasAporteEmpresa rdf:resource="http://localhost:8080/Data/page/$980,000"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/Maria_Duarte"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/EDGAR_SALAS">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/EDGAR_SALAS"/>
+    <ns1:hasAporteEmpresa rdf:resource="http://localhost:8080/Data/page/$300,000"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/Maria_Duarte"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/PEDRO_VERDUGA_CONSTRUCCIONES_S.A._PREVERCONSA">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/PEDRO_VERDUGA_CONSTRUCCIONES_S.A._PREVERCONSA"/>
+    <ns1:hasAporteEmpresa rdf:resource="http://localhost:8080/Data/page/$100,000"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/Walter_Solís"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/CONSTRUDIPRO">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/CONSTRUDIPRO"/>
+    <ns1:hasAporteEmpresa rdf:resource="http://localhost:8080/Data/page/$349,879,040"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/Walter_Solís"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/ODEBRECHT">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/ODEBRECHT"/>
+    <ns1:hasAporteEmpresa rdf:resource="http://localhost:8080/Data/page/$1,350,000"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Brasil"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/Jorge_Glass"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/SK_ENGGEENERING">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/SK_ENGGEENERING"/>
+    <ns1:hasAporteEmpresa rdf:resource="http://localhost:8080/Data/page/$1,500,000"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Korea"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/Jorge_Glass"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/CWNE(Jose_Alvear)">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/CWNE(Jose_Alvear)"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/Jorge_Glass"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/SANRIB_CORPORATIOPN">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/SANRIB_CORPORATIOPN"/>
+    <ns1:hasAporteEmpresa rdf:resource="http://localhost:8080/Data/page/$70,000"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/Jorge_Glass"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/TELCONET">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/TELCONET"/>
+    <ns1:hasAporteEmpresa rdf:resource="http://localhost:8080/Data/page/$500,000"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/Jorge_Glass"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/GROUP_BLUE">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/GROUP_BLUE"/>
+    <ns1:hasAporteEmpresa rdf:resource="http://localhost:8080/Data/page/$20,000"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/METCO">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/METCO"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/Jorge_Glass"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/CAI_RUNGUI_;SINOHYDRO">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/CAI_RUNGUI_;SINOHYDRO"/>
+    <ns1:hasAporteEmpresa rdf:resource="http://localhost:8080/Data/page/$400,000"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/China"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/Jorge_Glass"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/OSIER_S.A">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/OSIER_S.A"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/Jorge_Glass"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/TECNICA_GENERAL_DE_CONSTRUCCION_S.A">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/TECNICA_GENERAL_DE_CONSTRUCCION_S.A"/>
+    <ns1:hasAporteEmpresa rdf:resource="http://localhost:8080/Data/page/$30,000"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/Maria_Duarte"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/CONSERMIN">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/CONSERMIN"/>
+    <ns1:hasAporteEmpresa rdf:resource="http://localhost:8080/Data/page/$200,000"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+    <ns0:hasNombrePersonaGestionada rdf:resource="http://localhost:8080/Data/page/Maria_Duarte"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://localhost:8080/Data/page/FRANCISCO_SUAREZ">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company"/>
+    <ns1:hasNombreEmpresa rdf:resource="http://localhost:8080/Data/page/FRANCISCO_SUAREZ"/>
+    <ns0:hasPaisVinculado rdf:resource="http://localhost:8080/Data/page/Ecuador"/>
+    <ns0:hasEmpresaVinculada rdf:resource="http://localhost:8080/Data/page/Vinculada"/>
+  </rdf:Description>
+
+</rdf:RDF>

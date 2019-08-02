@@ -1,0 +1,20 @@
+ PREFIX caseav: <http://localhost:8080/Data/page/>
+                SELECT ?o
+                    WHERE 
+                        { 
+                           {?s  caseav:hasNombrePersona ?o .}
+                           UNION
+                           {?s caseav:hashasApellidoPersona ?o .}
+                           UNION
+                           {?s  caseav:hasCodigo ?o } 
+                           
+                        }
+
+
+
+
+
+
+
+
+El caso ‘Receta de Arroz Verde 502’ Muentes y investigación Olga publicada por el portal digital Mil Hojas. Martinez portal digital reveló un Hidalgo correo electrónico y Glas recibido por Solis y Pamela supuesta asesora del expresidente Correa y Rafael según Mil Hoja con un documento titulado502’. Según la investigación, el Duarte y remitente del correo electrónico sería Geraldo y Jorge encargado de la y V8 yRafael administración y Correa finanzas de Odebrecht en Ecuador.
