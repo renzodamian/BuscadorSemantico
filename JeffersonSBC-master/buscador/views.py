@@ -137,6 +137,7 @@ class Semantico():
                 self.sbcEndpoint.setReturnFormat(JSON)
                 results = self.sbcEndpoint.query().convert()
                 for result in results["results"]["bindings"]:
+                    
                     listaec = []
                     #listaSe = result["s"]["value"]
                     #listaPe = result["p"]["value"]
@@ -146,6 +147,7 @@ class Semantico():
                     listaec.append(listaOec)
                     datoscompani.append(listaec)
         return datos, entidades, spacyText,datostype,datoscompani
+        
     def textoHtml(self, texto, entidades):
         for palabra in entidades:
             if palabra in texto:

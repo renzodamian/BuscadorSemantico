@@ -21,16 +21,12 @@
     <ns0:hasPersonaDetenida rdf:resource="http://localhost:8080/Data/page/Detenido"/>
     <ns0:hasLugarDetencion rdf:resource="http://localhost:8080/Data/page/Guayaquil"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Jorge"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Jorgito"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/JORGE"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/JOrge"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/JORGe"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/JORGE"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/J-GLAS"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/JGlas"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/JorGe"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/jOrGe"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/jORGe"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/JORGE"/>
     <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Glas"/>
     <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
@@ -75,14 +71,10 @@
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/MariaDeLosAngeles"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/MariadelosAngeles"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/mariadelosangeles"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/MaritaAngeles"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Marita_de_los_Angeles"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/María_de_los_Ángeles"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/MARÍA_DE_LOS_ÁNGELES"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/maría_de_los_ángeles"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/María_De_Los_Ángeles"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/mARÍA_dE_lOS_áNGELES"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/María_de_los_ángeles"/>
     <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Duarte"/>
     <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
     <ns1:hasCargo rdf:resource="http://localhost:8080/Data/page/TransporteObrasPúblicasEcuador"/>
@@ -115,7 +107,6 @@
     <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Walter_Solis"/>
     <ns0:hasPersonaDetenida rdf:resource="http://localhost:8080/Data/page/Detenido"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Walter"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Waltersito"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/WALTER"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/waler"/>
     <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Solis"/>
@@ -158,8 +149,6 @@
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/olga"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/olgamuentes"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/OlgaMuentes"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/olgita"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Olgita"/>
     <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Muentes"/>
     <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
     <ns1:hasCargo rdf:resource="http://localhost:8080/Data/page/Asesora_"/>
@@ -185,8 +174,6 @@
     <ns0:hasPersonaDetenida rdf:resource="http://localhost:8080/Data/page/Detenido"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Maria_Augusta"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/maria_augusta"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Marita_Augusta"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/marita_augusta"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/MariaAugusta"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/mariaaugusta"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/María_Augusta"/>
@@ -218,7 +205,6 @@
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/maria_pamela"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/mariapamela"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/MariaPamela"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Marita_Pamela"/>
     <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Martinez_Loiza"/>
     <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
     <ns1:hasCargo rdf:resource="http://localhost:8080/Data/page/Asesora"/>
@@ -236,7 +222,6 @@
 
     <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Rafael_Correa_Delgado"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Rafael"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Rafaelito"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/rafael"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/RAFAEL"/>
     <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Correa"/>
@@ -276,10 +261,6 @@
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Laura"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/laura"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/LAURA"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/LaurITA"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/LAURITA"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Laurita"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/laurita"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/laura"/>
     <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Teran"/>
     <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
@@ -298,7 +279,6 @@
     <ns0:hasPersonaDetenida rdf:resource="http://localhost:8080/Data/page/Detenido"/>
     <ns0:hasLugarDetencion rdf:resource="http://localhost:8080/Data/page/Guayaquil"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Alexis"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Alexitos"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/alexis"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/ALEXIS"/>
     <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Mera"/>
@@ -336,9 +316,6 @@
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Galo"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/galo"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/GALO"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Galito"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/GALITO"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/galito"/>
     <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Mora"/>
     <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
     <ns1:hasCargo rdf:resource="http://localhost:8080/Data/page/DirectorDiscursos"/>
@@ -357,9 +334,6 @@
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Pedro"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/pedro"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/PEDRO"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Pedrito"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/PEDRITO"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Pedrito"/>
     <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Espinosza"/>
     <ns0:hasPartidoPolitico rdf:resource="http://localhost:8080/Data/page/AP"/>
     <ns0:hasImplicadoJuicio rdf:resource="http://localhost:8080/Data/page/ImplicadoJuicio"/>
@@ -371,8 +345,6 @@
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Alberto"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/alberto"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/ALBERTO"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Albertito"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/ALBERTITO"/>
     <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Hildalgo"/>
     <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
     <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
@@ -385,8 +357,6 @@
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Manuel"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/manuel"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/MANUEL"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Manuelito"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/MANUELITO"/>
     <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Fontana"/>
     <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
     <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
@@ -417,9 +387,6 @@
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Pedro"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/pedro"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/PEDRO"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Pedrito"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/PEDRITO"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Pedrito"/>
     <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Verduga"/>
     <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Fernando_Villavicencio"/>
     <ns0:hasPersonasDenunciaPor rdf:resource="http://localhost:8080/Data/page/Christian_Zurita"/>
@@ -522,7 +489,6 @@
 
     <ns1:hasNombreCompletoPersona rdf:resource="http://localhost:8080/Data/page/Rafael_Cordova"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Rafael"/>
-    <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/Rafaelito"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/rafael"/>
     <ns1:hasNombrePersona rdf:resource="http://localhost:8080/Data/page/RAFAEL"/>
     <ns1:hashasApellidoPersona rdf:resource="http://localhost:8080/Data/page/Cordova"/>
